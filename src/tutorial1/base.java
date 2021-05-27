@@ -34,10 +34,6 @@ public class base {
 	 return driver;
 	}
 	
-	public static void main(String[] args) throws MalformedURLException {
-		
-		base b= new base();
-		b.capabilities();
-		
-	}
+	
 }
+	
